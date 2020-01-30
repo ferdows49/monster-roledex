@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ferdows49/monster-roledex.git/static/css/main.dd40a8d0.chunk.css",
+    "main.js": "/ferdows49/monster-roledex.git/static/js/main.f68f8570.chunk.js",
+    "main.js.map": "/ferdows49/monster-roledex.git/static/js/main.f68f8570.chunk.js.map",
+    "runtime-main.js": "/ferdows49/monster-roledex.git/static/js/runtime-main.e06ce617.js",
+    "runtime-main.js.map": "/ferdows49/monster-roledex.git/static/js/runtime-main.e06ce617.js.map",
+    "static/js/2.7eb7d594.chunk.js": "/ferdows49/monster-roledex.git/static/js/2.7eb7d594.chunk.js",
+    "static/js/2.7eb7d594.chunk.js.map": "/ferdows49/monster-roledex.git/static/js/2.7eb7d594.chunk.js.map",
+    "index.html": "/ferdows49/monster-roledex.git/index.html",
+    "precache-manifest.a37c75454876f5947cc92f46b1edaba3.js": "/ferdows49/monster-roledex.git/precache-manifest.a37c75454876f5947cc92f46b1edaba3.js",
+    "service-worker.js": "/ferdows49/monster-roledex.git/service-worker.js",
+    "static/css/main.dd40a8d0.chunk.css.map": "/ferdows49/monster-roledex.git/static/css/main.dd40a8d0.chunk.css.map",
+    "static/js/2.7eb7d594.chunk.js.LICENSE": "/ferdows49/monster-roledex.git/static/js/2.7eb7d594.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e06ce617.js",
+    "static/js/2.7eb7d594.chunk.js",
+    "static/css/main.dd40a8d0.chunk.css",
+    "static/js/main.f68f8570.chunk.js"
+  ]
+}
